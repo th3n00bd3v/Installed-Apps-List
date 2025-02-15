@@ -31,7 +31,7 @@ This PowerShell script generates an HTML report of all installed applications on
 
 3. **Provide Output Path**:
 
-- When prompted, enter the full path where you want to save the HTML report file (e.g., D:\Scripts\InstalledAppsReport.html).
+- When prompted, enter the full path where you want to save the HTML report file (e.g., D:\Scripts\InstalledAppsReport.html). You can also press Enter to save the report in the current directory.
 
 4. **Open the Report**:
 
